@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Abdullah\'s Fitness Tracker</string>
+    <string name="recommended_weight">Set realistic goals for success</string>
+    <string name="login_btn">Sign In</string>
+    <string name="continue_btn">Proceed</string>
+    <string name="headline_name">User Information</string>
+    <string name="et_full_name">Name</string>
+    <string name="et_height_feet">Height (ft)</string>
+    <string name="et_height_inches">Height (in)</string>
+    <string name="et_start_weight">Initial Weight (kg)</string>
+    <string name="et_goal_weight">Target Weight (kg)</string>
+    <string name="btn_go_back">Return</string>
+    <string name="btn_submit">Confirm</string>
+    <string name="tv_update_weight">Enter Current Weight</string>
+
+    <string-array name="congratulations">
+        <item>Great work! Stay focused</item>
+        <item>You are getting closer to your goal!</item>
+        <item>Keep up the fantastic effort!</item>
+        <item>You\'re doing amazing!</item>
+    </string-array>
+</resources>
